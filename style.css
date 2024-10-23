@@ -4,17 +4,18 @@ header{
     background-color: black;
 }
 body{
-    background-color: antiquewhite 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige; 
+    
 }
 h1, h2{
-    text-align: ;   
+    text-align: left;   
 }
-p{
-    color: beige
+nav{
+    text-align: center;
+}
 }
 footer{
-    color: black;
+    color: blanchedalmond;
     background-color: beige;
     text-align: left;
 }
