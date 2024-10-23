@@ -1,0 +1,20 @@
+header{
+    width: 680;
+    height: 400;
+    background-color: black;
+}
+body{
+    background-color: antiquewhite 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2{
+    text-align: ;   
+}
+p{
+    color: beige
+}
+footer{
+    color: black;
+    background-color: beige;
+    text-align: left;
+}
