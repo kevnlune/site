@@ -1,21 +1,29 @@
 header{
     width: 680;
     height: 400;
-    background-color: black;
+    background-color: rgb (223,189,147);
+    font-size: large;
 }
 body{
-    background-color: beige; 
-    
+    background-color: rgb (225, 228, 195); 
+    color: rgb (97, 43, 18);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-h1, h2{
-    text-align: left;   
+h1, h2, p{
+    text-align: left;
+    text-size-adjust: 6;
 }
-nav{
-    text-align: center;
-}
+p{
+    color: black;
 }
 footer{
-    color: blanchedalmond;
-    background-color: beige;
-    text-align: left;
+    text-align: center;
+    background-color: rgb(173, 126, 94);
 }
+img{
+    align-content: center;
+}
+button{
+    background-color: antiquewhite;
+    color: black;
+    font-size: medium;
